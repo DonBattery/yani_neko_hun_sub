@@ -1,0 +1,367 @@
+[Script Info]
+Title: Chainsmoker Cat - Hungarian fan sub
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+
+; Normal dialogue
+Style: Default,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,1,0.3,2,15,15,18,1
+
+; Internal thoughts
+Style: Thought,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,1,0,0,100,100,0,0,1,1,0.3,2,15,15,18,1
+
+; Signs and on-screen text
+Style: Sign,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1,0.3,8,15,15,12,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:14.51,0:00:16.97,Default,,0,0,0,,Elfogyott a cigim.
+Dialogue: 0,0:00:19.56,0:00:24.14,Default,,0,0,0,,Minden kezd elmosódni.\NSzükségem van a nikotin adagomra.
+Dialogue: 0,0:00:24.73,0:00:26.35,Default,,0,0,0,,Szevasz, Yani Cica!
+Dialogue: 0,0:00:28.57,0:00:31.11,Default,,0,0,0,,Én vagyok a Cigi Tündér.
+Dialogue: 0,0:00:31.19,0:00:34.49,Default,,0,0,0,,Azért jöttem, hogy megmentsem egy bestia lelkét\Naki alul maradt a nikotinnal szemben.
+Dialogue: 0,0:00:35.07,0:00:36.99,Default,,0,0,0,,Te perverz disznó!
+Dialogue: 0,0:00:37.66,0:00:40.91,Default,,0,0,0,,Épp valami fontosat\Npróbálok neked mondani.
+Dialogue: 0,0:00:41.62,0:00:43.41,Default,,0,0,0,,Ide figyelj, Yani Cica.
+Dialogue: 0,0:00:43.50,0:00:47.04,Default,,0,0,0,,Látványosan szenvedsz\Na nikotin megvonástól.
+Dialogue: 0,0:00:47.13,0:00:49.79,Default,,0,0,0,,Módjával kéne élvezni\Na cigarettákat.
+Dialogue: 0,0:00:49.88,0:00:52.17,Default,,0,0,0,,ÉN MÓDJÁVAL ÉLVEZEM A CIGARETTÁKAT!
+Dialogue: 0,0:00:52.26,0:00:55.01,Default,,0,0,0,,A reakciód másról árulkodik.
+Dialogue: 0,0:00:55.09,0:00:55.93,Default,,0,0,0,,Rendben.
+Dialogue: 0,0:00:56.51,0:00:58.51,Default,,0,0,0,,Valamin változtatni kéne.
+Dialogue: 0,0:00:58.60,0:01:02.35,Default,,0,0,0,,Megtanítom neked\Na Nikotin Receptor Tornát.
+Dialogue: 0,0:01:04.14,0:01:07.90,Default,,0,0,0,,NIKOTIN RECEPTOR TORNA
+Dialogue: 0,0:01:07.98,0:01:11.40,Default,,0,0,0,,{\i1}A haját füst borítja,{\i0}
+Dialogue: 0,0:01:11.48,0:01:15.40,Default,,0,0,0,,{\i1}A szája és tüdeje is teli a füstel,{\i0}
+Dialogue: 0,0:01:15.49,0:01:19.91,Default,,0,0,0,,{\i1}Oly füstös, oly füstös{\i0}
+Dialogue: 0,0:01:19.99,0:01:25.00,Default,,0,0,0,,{\i1}Késő lesz sírni, mikor már véget ér{\i0}
+Dialogue: 0,0:01:25.08,0:01:27.87,Default,,0,0,0,,{\i1}Gyerünk hát{\i0}
+Dialogue: 0,0:01:30.08,0:01:34.46,Default,,0,0,0,,{\i1}Gyerünk hát, gyerünk hát{\i0}
+Dialogue: 0,0:01:35.30,0:01:36.97,Default,,0,0,0,,Müködik?
+Dialogue: 0,0:01:38.30,0:01:41.55,Default,,0,0,0,,Álj! Ne hagyd, hogy a nikotin győzzön!
+Dialogue: 0,0:01:41.64,0:01:44.56,Default,,0,0,0,,Akkor nem kéne a fincsi seggedet\Nelőttem ráznod.
+Dialogue: 0,0:01:44.64,0:01:48.52,Default,,0,0,0,,A francba!\NMiért nincs cigi ízed?
+Dialogue: 0,0:01:48.60,0:01:49.98,Default,,0,0,0,,Miért lenne?
+Dialogue: 0,0:01:50.06,0:01:51.98,Default,,0,0,0,,Végtére is, én csak a…
+Dialogue: 0,0:01:52.07,0:01:53.36,Default,,0,0,0,,Hé.
+Dialogue: 0,0:01:53.44,0:01:55.99,Default,,0,0,0,,Yani Macska,\Nitt van a közösségi hirdetőtábla.
+Dialogue: 0,0:01:56.07,0:01:59.74,Default,,0,0,0,,Végtére is,\Nén csak a képzeleted szüleménye vagyok.
+Dialogue: 0,0:02:02.41,0:02:03.49,Default,,0,0,0,,Yani Macska?
+Dialogue: 0,0:02:03.58,0:02:07.04,Default,,0,0,0,,Ez nem lehet. Határozottan érzem.
+Dialogue: 0,0:02:07.12,0:02:10.50,Default,,0,0,0,,Minden csupán illúzió,\Namit az agyad mutat neked.
+Dialogue: 0,0:02:11.08,0:02:12.38,Default,,0,0,0,,Ez nem lehet.
+Dialogue: 0,0:02:12.46,0:02:14.09,Default,,0,0,0,,Ez nem…
+Dialogue: 0,0:02:14.63,0:02:16.09,Default,,0,0,0,,{\i1}A füst illata.{\i0}
+Dialogue: 0,0:02:16.59,0:02:18.13,Default,,0,0,0,,{\i1}A kender érintése.{\i0}
+Dialogue: 0,0:02:18.22,0:02:20.55,Default,,0,0,0,,{\i1}A naplemente sugarainak játéka.{\i0}
+Dialogue: 0,0:02:20.64,0:02:22.64,Default,,0,0,0,,{\i1}A vonta füttye a távolban.{\i0}
+Dialogue: 0,0:02:22.72,0:02:25.60,Default,,0,0,0,,Itt rekedtem.
+Dialogue: 0,0:02:26.10,0:02:30.27,Default,,0,0,0,,Mindíg veled leszek.\NNa, vissza a tornához!
+Dialogue: 0,0:04:32.52,0:04:34.06,Default,,0,0,0,,Hé, Yaku Cica!
+Dialogue: 0,0:04:35.14,0:04:38.82,Default,,0,0,0,,Szükségem van nikotinra, adj egy cigit!
+Dialogue: 0,0:04:39.61,0:04:41.65,Default,,0,0,0,,Ah, Főcica, szia.
+Dialogue: 0,0:04:41.73,0:04:44.32,Default,,0,0,0,,Bocs, de én is kifogytam a cigiből.
+Dialogue: 0,0:04:44.40,0:04:46.66,Default,,0,0,0,,Hazudsz, hiszen pont most szívsz egyet.
+Dialogue: 0,0:04:46.74,0:04:48.99,Default,,0,0,0,,Mit, ezt?
+Dialogue: 0,0:04:50.66,0:04:52.50,Default,,0,0,0,,Az nem egy cigaretta?
+Dialogue: 0,0:04:57.83,0:04:58.75,Default,,0,0,0,,Cigi, persze.
+Dialogue: 0,0:04:58.84,0:05:00.09,Default,,0,0,0,,Akkor add ide.
+Dialogue: 0,0:05:00.17,0:05:01.13,Default,,0,0,0,,De!
+Dialogue: 0,0:05:01.21,0:05:02.76,Default,,0,0,0,,Ne fukarkodj velem!
+Dialogue: 0,0:05:03.34,0:05:06.76,Default,,0,0,0,,Emlékszel, hogy én is adtam csikkeket\Namikor te voltál leégve?
+Dialogue: 0,0:05:07.55,0:05:08.39,Default,,0,0,0,,De, Főcica...
+Dialogue: 0,0:05:08.47,0:05:11.39,Default,,0,0,0,,Olyan kis hálátlan alcica vagy.
+Dialogue: 0,0:05:19.02,0:05:20.90,Default,,0,0,0,,Ez meg mi a szar? Borzasztó íze van!
+Dialogue: 0,0:05:20.98,0:05:23.03,Default,,0,0,0,,Főcica, rosszul csinálod.
+Dialogue: 0,0:05:23.61,0:05:26.86,Default,,0,0,0,,Lenn kell tartanod kicsit, mielőtt kifújnád a füstöt.
+Dialogue: 0,0:05:28.49,0:05:30.99,Default,,0,0,0,,Különben a vegyületeknek\Nnincs idejük felszívódni.
+Dialogue: 0,0:05:31.74,0:05:32.91,Default,,0,0,0,,Ez ugye egy cigi?
+Dialogue: 0,0:05:32.99,0:05:33.91,Default,,0,0,0,,Persze, hogy az.
+Dialogue: 0,0:05:49.18,0:05:51.72,Default,,0,0,0,,Oké, ez nem is olyan rossz.
+Dialogue: 0,0:05:51.80,0:05:54.64,Default,,0,0,0,,Ugye? Főcica, kérsz egy kis fagyit?
+Dialogue: 0,0:05:54.72,0:05:57.19,Default,,0,0,0,,Nagyon fog ízleni,\Nhogy ha most eszel belőle!
+Dialogue: 0,0:06:00.15,0:06:01.11,Default,,0,0,0,,Ez egy cigaretta?
+Dialogue: 0,0:06:01.81,0:06:02.94,Default,,0,0,0,,Igen, persze.
+Dialogue: 0,0:06:05.36,0:06:06.61,Default,,0,0,0,,{\i1}Láncdohányos Macska{\i0}
+Dialogue: 0,0:06:09.45,0:06:12.12,Default,,0,0,0,,BESTIA-VESZETTSÉG ELLENI SZERT TARTALMAZ
+Dialogue: 0,0:06:12.20,0:06:15.20,Default,,0,0,0,,Úgy fest ismét eljött az idő.
+Dialogue: 0,0:06:15.29,0:06:19.21,Default,,0,0,0,,Utálom ennek a szernek\Na gusztustalan gyógynövényes ízét.
+Dialogue: 0,0:06:22.34,0:06:24.13,Default,,0,0,0,,Yaku, itthon vagy?
+Dialogue: 0,0:06:26.96,0:06:28.30,Default,,0,0,0,,Mit csinálsz?
+Dialogue: 0,0:06:30.38,0:06:32.26,Default,,0,0,0,,Főcica! Mi az?
+Dialogue: 0,0:06:33.10,0:06:36.97,Default,,0,0,0,,Be akarom venni a bestia-veszettség elleni gyógyszereimet.\NHasználhatnám a csapot?
+Dialogue: 0,0:06:37.06,0:06:39.39,Default,,0,0,0,,Az én lakásomban elzárták a vizet.
+Dialogue: 0,0:06:44.02,0:06:45.15,Default,,0,0,0,,Ez egy vakcina!
+Dialogue: 0,0:06:46.44,0:06:48.07,Default,,0,0,0,,Nem kérdeztem.
+Dialogue: 0,0:06:48.99,0:06:51.91,Default,,0,0,0,,VITAMINOK, HASHAJTÓ, TELEFON KÁRTYÁK, FECSKENDŐ, TABLETTÁK, VÍZ, GYÓGYNÖVÉNYEK
+Dialogue: 0,0:06:51.99,0:06:54.78,Default,,0,0,0,,Ugye nem valami\Nfura drogot tolsz már megint?
+Dialogue: 0,0:06:54.87,0:06:56.79,Default,,0,0,0,,Természetesen nem!
+Dialogue: 0,0:06:56.87,0:07:00.79,Default,,0,0,0,,Tudod jól, hogy lejöttem róluk! Ugye?
+Dialogue: 0,0:07:00.87,0:07:04.88,Default,,0,0,0,,Ha már a Főcica sem hisz nekem,\Nteljesen egyedül leszek!
+Dialogue: 0,0:07:04.96,0:07:08.80,Default,,0,0,0,,Azt hittem visszailleszkedhetek a társadalomba,\Nmiután jó útra tértem.
+Dialogue: 0,0:07:08.88,0:07:11.05,Default,,0,0,0,,Hagyjatok már békén!
+Dialogue: 0,0:07:13.34,0:07:14.18,Default,,0,0,0,,Tulajdonképpen,
+Dialogue: 0,0:07:15.81,0:07:18.56,Default,,0,0,0,,miért is aggódsz annyira miattam?
+Dialogue: 0,0:07:20.10,0:07:21.14,Default,,0,0,0,,Várjunk csak,
+Dialogue: 0,0:07:21.23,0:07:22.77,Default,,0,0,0,,te ugye egy tégla vagy?
+Dialogue: 0,0:07:22.85,0:07:25.44,Default,,0,0,0,,Ez csak egy álca! Add vissza nekem a Főcicámat!
+Dialogue: 0,0:07:25.52,0:07:28.65,Default,,0,0,0,,Nyugodj meg! Vegyél egy mély levegőt!
+Dialogue: 0,0:07:28.73,0:07:31.65,Default,,0,0,0,,Miattad ment tönkre az életem!
+Dialogue: 0,0:07:32.95,0:07:35.41,Default,,0,0,0,,Vesd le ezt az álcát!
+Dialogue: 0,0:07:35.49,0:07:37.87,Default,,0,0,0,,{\i1}REVELIO!{\i0}
+Dialogue: 0,0:07:40.41,0:07:45.42,Default,,0,0,0,,YAKU CICA BORZALMASAN ROSSZ\NÁRTATLANSÁGÁNAK BIZONYÍTÁSÁBAN
+Dialogue: 0,0:07:46.42,0:07:47.55,Default,,0,0,0,,{\i1}Láncdohányos Macska{\i0}
+Dialogue: 0,0:07:56.60,0:07:59.18,Default,,0,0,0,,Hát ez vicces volt.
+Dialogue: 0,0:08:01.14,0:08:03.69,Default,,0,0,0,,Hé ti ketten.
+Dialogue: 0,0:08:03.77,0:08:05.10,Default,,0,0,0,,TENYÉR JÓSLÁS - 2,000 YEN
+Dialogue: 0,0:08:05.19,0:08:07.44,Default,,0,0,0,,Ez a csapos kész röhej volt.
+Dialogue: 0,0:08:07.52,0:08:09.32,Default,,0,0,0,,Nem számítottam rá, hogy kiteszi a fenekét.
+Dialogue: 0,0:08:09.40,0:08:11.69,Default,,0,0,0,,Hé, ti két bestia lány!
+Dialogue: 0,0:08:13.28,0:08:16.70,Default,,0,0,0,,Akartok egy tenyér jóslást?
+Dialogue: 0,0:08:17.28,0:08:18.70,Default,,0,0,0,,Ez drága!
+Dialogue: 0,0:08:18.78,0:08:20.83,Default,,0,0,0,,Meg úgy is bénaság.
+Dialogue: 0,0:08:20.91,0:08:23.08,Default,,0,0,0,,100 Yen-ért kipróbálom.
+Dialogue: 0,0:08:24.37,0:08:29.34,Default,,0,0,0,,Nem bánom ha helyükre kell tennem,\Naz olyan arcátlan ügyfeleket mint te.
+Dialogue: 0,0:08:30.00,0:08:31.21,Default,,0,0,0,,Te ugye csak jós vagy?
+Dialogue: 0,0:08:31.30,0:08:34.97,Default,,0,0,0,,Csak akkor kell kifizetned a 2000 Yen-t\Nha úgy gondolod helyes az olvasatom.
+Dialogue: 0,0:08:35.05,0:08:36.47,Default,,0,0,0,,Megegyeztünk.
+Dialogue: 0,0:08:38.01,0:08:39.47,Default,,0,0,0,,Na lássuk csak.
+Dialogue: 0,0:08:41.52,0:08:42.68,Default,,0,0,0,,Pfúj!
+Dialogue: 0,0:08:42.77,0:08:45.98,Default,,0,0,0,,Mosol te egyáltalán kezet?
+Dialogue: 0,0:08:46.65,0:08:48.56,Default,,0,0,0,,Láncdohányos vagy, ugye?
+Dialogue: 0,0:08:48.65,0:08:52.40,Default,,0,0,0,,Nem csupán az, de olyan függő,\Naki gondot okoz a családjának is.
+Dialogue: 0,0:08:52.90,0:08:56.24,Default,,0,0,0,,Egyedül élesz egy lepukkant albérletben\Nmert nincs rendes állásod.
+Dialogue: 0,0:08:58.53,0:08:59.62,Default,,0,0,0,,És...
+Dialogue: 0,0:08:59.70,0:09:02.58,Default,,0,0,0,,tüdőrákban fogsz meghalni\Nöt éven belül.
+Dialogue: 0,0:09:02.66,0:09:04.25,Default,,0,0,0,,Vagy egy tűzesetben.
+Dialogue: 0,0:09:06.67,0:09:09.00,Default,,0,0,0,,Nyugi, ez csak egy buta jóslat.
+Dialogue: 0,0:09:09.71,0:09:12.30,Default,,0,0,0,,Tessék, szívj egy cigit, és nyugodj meg.
+Dialogue: 0,0:09:15.55,0:09:17.43,Default,,0,0,0,,Úgy fest igazam volt.
+Dialogue: 0,0:09:17.93,0:09:19.80,Default,,0,0,0,,Kérem a következőt!
+Dialogue: 0,0:09:19.89,0:09:21.01,Default,,0,0,0,,Mutasd a tenyered.
+Dialogue: 0,0:09:21.10,0:09:23.31,Default,,0,0,0,,Megvizsgálom 100 Yen-ért.
+Dialogue: 0,0:09:23.39,0:09:25.14,Default,,0,0,0,,Az enyémet?
+Dialogue: 0,0:09:25.98,0:09:29.15,Default,,0,0,0,,Nem igazán hiszek\Naz ilyesmiben.
+Dialogue: 0,0:09:29.73,0:09:33.28,Default,,0,0,0,,Amúgy meg a tenyérolvasás\Ncsupán a Forer-hatásra épít, nem?
+Dialogue: 0,0:09:33.36,0:09:37.28,Default,,0,0,0,,Egyszerűen csak következtetéseket von le a megfigyeléseiből,\Nahogy ezt a Főcicával is tette.
+Dialogue: 0,0:09:37.36,0:09:40.03,Default,,0,0,0,,Használsz illegális szereket?
+Dialogue: 0,0:09:44.12,0:09:45.41,Default,,0,0,0,,{\an2}Dehogy.
+Dialogue: 0,0:09:45.50,0:09:47.25,Default,,0,0,0,,{\an2}Volt rendőrségi ügyed?
+Dialogue: 0,0:09:47.33,0:09:48.17,Default,,0,0,0,,{\an2}Nem.
+Dialogue: 0,0:09:48.25,0:09:49.67,Default,,0,0,0,,{\an2}Házkutatás se volt nálad?
+Dialogue: 0,0:09:49.75,0:09:50.75,Default,,0,0,0,,{\an2}Soha.
+Dialogue: 0,0:09:50.84,0:09:51.92,Default,,0,0,0,,{\an2}Őszintén?
+Dialogue: 0,0:09:52.00,0:09:53.05,Default,,0,0,0,,{\an2}Persze, hogy őszintén!
+Dialogue: 0,0:09:53.96,0:09:55.21,Default,,0,0,0,,Nem értem.
+Dialogue: 0,0:09:55.30,0:09:57.72,Default,,0,0,0,,Hogy lehet egy tenyér jóslás ennyire specifikus?
+Dialogue: 0,0:09:57.80,0:10:00.30,Default,,0,0,0,,Nem mintha, bármi is igaz lenne belőle!
+Dialogue: 0,0:10:01.30,0:10:04.35,Default,,0,0,0,,Hogy elhiszed-e vagy sem\Naz a te dolgod.
+Dialogue: 0,0:10:06.14,0:10:10.35,Default,,0,0,0,,{\an2}Ha nem tetszett,\Nakkor adjátok ide a 100 Yen-t, és tűnjetek el.
+Dialogue: 0,0:10:20.66,0:10:22.49,Default,,0,0,0,,Hékás!
+Dialogue: 0,0:10:23.24,0:10:25.49,Default,,0,0,0,,{\i1}Láncdohányos Macska{\i0}
+Dialogue: 0,0:10:52.52,0:10:54.11,Default,,0,0,0,,- Főcica.\N- Igen?
+Dialogue: 0,0:10:54.19,0:10:55.69,Default,,0,0,0,,Nem fogsz dolgozni?
+Dialogue: 0,0:10:55.78,0:10:57.82,Default,,0,0,0,,Még nem értünk el arra a pontra.
+Dialogue: 0,0:10:58.32,0:11:02.24,Default,,0,0,0,,Az alkalmi állásomban, naponta fizetnek.\NSzeretnél velem jönni?
+Dialogue: 0,0:11:03.45,0:11:04.74,Default,,0,0,0,,Figyelj, Yaku.
+Dialogue: 0,0:11:05.33,0:11:06.74,Default,,0,0,0,,Nézd meg azt a felhőt.
+Dialogue: 0,0:11:08.95,0:11:11.17,Default,,0,0,0,,Az leszek én.
+Dialogue: 0,0:11:12.83,0:11:16.46,Default,,0,0,0,,Valami szabad, ami semmihez sem kötődik.
+Dialogue: 0,0:11:16.96,0:11:20.01,Default,,0,0,0,,Így akarok élni.
+Dialogue: 0,0:11:23.72,0:11:27.89,Default,,0,0,0,,Csupán az éhség nem foszthat meg a szabadságomtól.
+Dialogue: 0,0:11:27.97,0:11:31.06,Default,,0,0,0,,Fú ez nagyon menő volt!
+Dialogue: 0,0:11:31.14,0:11:34.52,Default,,0,0,0,,Főcica, te magasról teszel mindenre!
+Dialogue: 0,0:11:34.61,0:11:39.28,Default,,0,0,0,,Na jó, még ha felhő is lennék,\Nakkor is elmennék dolgozni, amikor kifogytam a cigiből.
+Dialogue: 0,0:11:39.36,0:11:42.28,Default,,0,0,0,,Amikor az az idő eljön,\Najánlj be a munkahelyeden.
+Dialogue: 0,0:11:42.36,0:11:44.91,Default,,0,0,0,,Természetesen! Még aznap\Nrárakatlak a beosztásra.
+Dialogue: 0,0:11:47.24,0:11:49.29,Default,,0,0,0,,{\i1}A Főcica annyira menő ma.{\i0}
+Dialogue: 0,0:11:54.38,0:11:58.05,Default,,0,0,0,,{\i1}Akárcska, mikor először találkoztunk.{\i0}
+Dialogue: 0,0:11:59.42,0:12:00.34,Default,,0,0,0,,{\i1}Úgy is van.{\i0}
+Dialogue: 0,0:12:00.84,0:12:03.05,Default,,0,0,0,,{\i1}Nagyon felnéztem rá,{\i0}
+Dialogue: 0,0:12:03.13,0:12:06.89,Default,,0,0,0,,{\i1}amiért olyan szabad volt, akár egy felhő.{\i0}
+Dialogue: 0,0:12:08.80,0:12:10.15,Default,,0,0,0,,Hé, Yaku!
+Dialogue: 0,0:12:10.81,0:12:13.69,Default,,0,0,0,,Nyisd ki! És szervezz be a munkádba!
+Dialogue: 0,0:12:15.77,0:12:16.98,Default,,0,0,0,,Alszol?
+Dialogue: 0,0:12:17.06,0:12:19.94,Default,,0,0,0,,Átkozottul remélem, hogy nem vagy szétdrogozva!
+Dialogue: 0,0:12:20.03,0:12:22.53,Default,,0,0,0,,Kurvára kelj már fel!
+Dialogue: 0,0:12:22.61,0:12:24.57,Default,,0,0,0,,Az éjszaka kellős közepe van.
+Dialogue: 0,0:12:24.66,0:12:26.20,Default,,0,0,0,,Ez most kibaszottul komoly.
+Dialogue: 0,0:12:26.28,0:12:29.45,Default,,0,0,0,,Azt hittem van még egy karton cigim,\Nde az múlt héten volt!
+Dialogue: 0,0:12:29.54,0:12:31.58,Default,,0,0,0,,Szükségem van pénzre, hogy cigit szerezzek!
+Dialogue: 0,0:12:31.66,0:12:33.83,Default,,0,0,0,,Most azonnal\Nvigyél el a munkahelyedre,
+Dialogue: 0,0:12:33.91,0:12:35.54,Default,,0,0,0,,ami naponta fizet.
+Dialogue: 0,0:12:38.34,0:12:43.67,Default,,0,0,0,,{\i1}Értem. Ő egy olyan felhő, ami füstből van.{\i0}
+Dialogue: 0,0:13:02.23,0:13:03.07,Default,,0,0,0,,DÜH MÉTER
+Dialogue: 0,0:13:03.15,0:13:04.07,Default,,0,0,0,,Micsoda hülye játék!
+Dialogue: 0,0:13:04.15,0:13:06.91,Default,,0,0,0,,Hame Cica, ez a játék egy fos!
+Dialogue: 0,0:13:06.99,0:13:11.66,Default,,0,0,0,,Yanicska, a verekedős játékokban,\Nvesztesz ha felhúzod magad.
+Dialogue: 0,0:13:11.74,0:13:13.75,Default,,0,0,0,,Nem mutathatod ki az érzelmeidet.
+Dialogue: 0,0:13:13.83,0:13:15.79,Default,,0,0,0,,Meg kell őrizned a hidegvéred\Nminden szituációban.
+Dialogue: 0,0:13:15.87,0:13:17.29,Default,,0,0,0,,Érted?
+Dialogue: 0,0:13:17.37,0:13:20.42,Default,,0,0,0,,Pont az a baj, hogy erre képtelen vagyok.
+Dialogue: 0,0:13:20.50,0:13:22.88,Default,,0,0,0,,Figyeld ahogy játszom.
+Dialogue: 0,0:13:23.88,0:13:28.30,Default,,0,0,0,,Megmutatom hogyan értem el a Nagy Mester szintet.
+Dialogue: 0,0:13:29.47,0:13:30.30,Default,,0,0,0,,{\i1}Kész?{\i0}
+Dialogue: 0,0:13:42.65,0:13:45.86,Default,,0,0,0,,{\i1}Vesztettél, visszavágót?{\i0}
+Dialogue: 0,0:13:47.15,0:13:50.32,Default,,0,0,0,,Csak simán pörgette a joystick-et körbe körbe.
+Dialogue: 0,0:13:58.75,0:14:01.09,Default,,0,0,0,,Yanicska, éhes vagy?
+Dialogue: 0,0:14:01.17,0:14:03.09,Default,,0,0,0,,Szeretnél ebédelni?
+Dialogue: 0,0:14:04.09,0:14:06.59,Default,,0,0,0,,Azt hiszem marad még pár instant tészta levesem.
+Dialogue: 0,0:14:20.65,0:14:22.06,Default,,0,0,0,,DÜHÖNGÉS
+Dialogue: 0,0:14:28.86,0:14:31.70,Default,,0,0,0,,Már akartam szólni.
+Dialogue: 0,0:14:32.49,0:14:35.20,Default,,0,0,0,,Ne dohányozz a videó-játékaim közelében!
+Dialogue: 0,0:14:36.16,0:14:37.33,Default,,0,0,0,,Bocsánat!
+Dialogue: 0,0:14:46.96,0:14:50.34,Default,,0,0,0,,KINYÍRLAK, TE FÜSTÖLGŐ RIBANC!
+Dialogue: 0,0:14:54.01,0:14:56.93,Default,,0,0,0,,És akkor elszállt a papucsom.
+Dialogue: 0,0:14:57.02,0:14:58.68,Default,,0,0,0,,- Nee, menj már!\N- Pedig így volt.
+Dialogue: 0,0:14:59.64,0:15:03.36,Default,,0,0,0,,Tudod, megfigyeltem\Nte nem is vagy annyira bestiás, Imoko.
+Dialogue: 0,0:15:03.44,0:15:05.19,Default,,0,0,0,,Viselkedhetnél macskásabban is.
+Dialogue: 0,0:15:05.94,0:15:08.32,Default,,0,0,0,,Hát, mindenki különböző.
+Dialogue: 0,0:15:13.62,0:15:14.87,Default,,0,0,0,,Te most nyávogtál egyet?
+Dialogue: 0,0:15:14.95,0:15:15.95,Default,,0,0,0,,Nem én.
+Dialogue: 0,0:15:16.04,0:15:17.33,Default,,0,0,0,,Előbújt belőled a macska.
+Dialogue: 0,0:15:18.66,0:15:20.58,Default,,0,0,0,,Bolyhos kutyus!
+Dialogue: 0,0:15:30.93,0:15:32.47,Default,,0,0,0,,Ez az én kishúgom.
+Dialogue: 0,0:15:33.05,0:15:35.97,Default,,0,0,0,,Na mi van? Mész haza az iskolából?
+Dialogue: 0,0:15:37.18,0:15:38.97,Default,,0,0,0,,Nem is tudtam, hogy van egy nővéred.
+Dialogue: 0,0:15:39.06,0:15:40.94,Default,,0,0,0,,Őrülten nyivákol.
+Dialogue: 0,0:15:41.02,0:15:42.35,Default,,0,0,0,,Annyira aranyos.
+Dialogue: 0,0:15:43.77,0:15:45.11,Default,,0,0,0,,Mutass egy kis szeretetet.
+Dialogue: 0,0:15:45.19,0:15:46.19,Default,,0,0,0,,Nem ismerem ezt a személyt.
+Dialogue: 0,0:15:51.45,0:15:53.24,Default,,0,0,0,,EGY PILLANAT ÉS KEZDÜNK\NHAME CSATORNA
+Dialogue: 0,0:15:53.32,0:15:55.49,Default,,0,0,0,,AKTUÁLIS TÉMA: HAME NEHÉZ NAPJA
+Dialogue: 0,0:15:55.57,0:15:57.99,Default,,0,0,0,,{\i1}Szia mindenki!{\i0}
+Dialogue: 0,0:15:58.08,0:16:00.96,Default,,0,0,0,,{\i1}Itt a Hame Csatorna!{\i0}
+Dialogue: 0,0:16:01.04,0:16:03.25,Default,,0,0,0,,{\i1}Köszönöm, hogy jöttetek.{\i0}
+Dialogue: 0,0:16:03.33,0:16:05.08,Default,,0,0,0,,Na, szóval.
+Dialogue: 0,0:16:05.17,0:16:09.30,Default,,0,0,0,,Ez volt a legrosszab napom!
+Dialogue: 0,0:16:09.80,0:16:12.26,Default,,0,0,0,,{\i1}Fúj! Egy nagy bogár!{\i0}
+Dialogue: 0,0:16:12.34,0:16:14.64,Default,,0,0,0,,{\i1}Ne gyere közelebb!{\i0}
+Dialogue: 0,0:16:14.72,0:16:16.76,Default,,0,0,0,,{\i1}Utálom a bogarakat!{\i0}
+Dialogue: 0,0:16:16.85,0:16:17.72,Default,,0,0,0,,MEGRENDEZETTNEK TŰNIK
+Dialogue: 0,0:16:17.81,0:16:19.56,Default,,0,0,0,,{\i1}Nagy rusnya bogár!{\i0}
+Dialogue: 0,0:16:19.64,0:16:22.02,Default,,0,0,0,,{\i1}OK, rendben!{\i0}\N{\i1}Idehozom a porszívót.{\i0}
+Dialogue: 0,0:16:22.10,0:16:25.23,Default,,0,0,0,,{\i1}Bocsi, mindenki,{\i0}\N{\i1}le fogom állítani a közvetítést.{\i0}
+Dialogue: 0,0:16:25.31,0:16:26.31,Default,,0,0,0,,TELJESEN MÁS A KISUGÁRZÁSA
+Dialogue: 0,0:16:26.40,0:16:27.40,Default,,0,0,0,,NINCS LEÁLLÍTVA
+Dialogue: 0,0:16:27.48,0:16:28.48,Default,,0,0,0,,EZ ROSSZ
+Dialogue: 0,0:16:28.57,0:16:29.65,Default,,0,0,0,,HAME! NINCS LEÁLLÍTVA!
+Dialogue: 0,0:16:29.73,0:16:30.73,Default,,0,0,0,,ELKAPTA
+Dialogue: 0,0:16:30.82,0:16:31.82,Default,,0,0,0,,EZ ROSSZ
+Dialogue: 0,0:16:31.90,0:16:32.90,Default,,0,0,0,,HAME ARANYOS
+Dialogue: 0,0:16:32.99,0:16:35.50,Default,,0,0,0,,ANNAK AZ ÁRVASZÚNYOGNAK CSALÁDJA VOLT
+Dialogue: 0,0:16:38.74,0:16:44.16,Default,,0,0,0,,Miért ilyen kínos a nővérem?!
+Dialogue: 0,0:16:45.12,0:16:48.42,Default,,0,0,0,,Szóval, gondolom utálod őt.
+Dialogue: 0,0:16:48.50,0:16:50.05,Default,,0,0,0,,Egyáltalán nem utálom!
+Dialogue: 0,0:16:50.13,0:16:51.30,Default,,0,0,0,,Akkor szereted?
+Dialogue: 0,0:16:54.22,0:16:55.05,Default,,0,0,0,,Szeretet?
+Dialogue: 0,0:16:55.93,0:16:59.26,Default,,0,0,0,,A fejem…
+Dialogue: 0,0:16:59.35,0:17:01.56,Default,,0,0,0,,Bocsánat.
+Dialogue: 0,0:17:01.64,0:17:04.27,Default,,0,0,0,,Azt hiszem ez komplikált.
+Dialogue: 0,0:17:05.27,0:17:08.27,Default,,0,0,0,,Én…\NKomolyan, ez a mi hibánk.
+Dialogue: 0,0:17:11.48,0:17:14.15,Default,,0,0,0,,Nem gondoltam volna, hogy ilyen hangosan is tudsz nyivákolni.
+Dialogue: 0,0:17:20.24,0:17:21.08,Default,,0,0,0,,FEKETE KÁVÉ
+Dialogue: 0,0:17:21.16,0:17:22.79,Default,,0,0,0,,A kávé és a cigi igazán jó kombó,
+Dialogue: 0,0:17:22.87,0:17:25.16,Default,,0,0,0,,de az felidegesít\Nhogy hugyoznom kell tőle.
+Dialogue: 0,0:17:25.25,0:17:28.33,Default,,0,0,0,,Hát én nem így fogalmaztam volna,
+Dialogue: 0,0:17:28.42,0:17:30.38,Default,,0,0,0,,de megértem amit mondasz.
+Dialogue: 0,0:17:30.46,0:17:33.55,Default,,0,0,0,,Hamécska ezt nem érti.
+Dialogue: 0,0:17:33.63,0:17:36.38,Default,,0,0,0,,Nektek hörcsög-hójagotok van?
+Dialogue: 0,0:17:36.47,0:17:37.30,Default,,0,0,0,,ÉDES TEJES KÁVÉ
+Dialogue: 0,0:17:39.39,0:17:41.81,Default,,0,0,0,,Te meg mi a francról beszélsz,\Nwc-tündérke?
+Dialogue: 0,0:17:43.14,0:17:45.89,Default,,0,0,0,,Tündérke? Az meg mi?
+Dialogue: 0,0:17:45.98,0:17:49.77,Default,,0,0,0,,Középiskolában,\Nmindíg a wc-ben ebédelt.
+Dialogue: 0,0:17:50.27,0:17:52.02,Default,,0,0,0,,- Sose tudtuk kicsalogatni onnan,
+Dialogue: 0,0:17:52.11,0:17:55.28,Default,,0,0,0,,úgyhogy elkezdtük wc-tündérnek hívni.
+Dialogue: 0,0:17:55.36,0:17:57.57,Default,,0,0,0,,{\an8}{\i1}El lettem bűvölve a Tündélrek álltal.{\i0}
+Dialogue: 0,0:17:55.36,0:17:57.57,Default,,0,0,0,,{\i1}- Abbahagynád?{\i0}
+Dialogue: 0,0:17:57.65,0:18:01.87,Default,,0,0,0,,{\an8}{\i1}Menjetek innen, különben megjelenik az átkozott jel.{\i0}
+Dialogue: 0,0:17:57.65,0:18:01.87,Default,,0,0,0,,- Ne beszélj erről neki!
+Dialogue: 0,0:18:01.95,0:18:04.08,Default,,0,0,0,,{\an8}{\i1}Mi a bajod? Fáj a feneked?{\i0}\N{\i1}- Nem!{\i0}
+Dialogue: 0,0:18:04.16,0:18:05.83,Default,,0,0,0,,Megöllek!
+Dialogue: 0,0:18:08.79,0:18:10.13,Default,,0,0,0,,Először is,
+Dialogue: 0,0:18:10.21,0:18:14.21,Default,,0,0,0,,Hamécska mindenkinek az idolja, és az idolok nem pisilnek.
+Dialogue: 0,0:18:14.30,0:18:16.22,Default,,0,0,0,,Nem úgy mint ti, Yakuko.
+Dialogue: 0,0:18:21.43,0:18:25.64,Default,,0,0,0,,Főcica, hallotad ezt?\NAzt szeretné ha lefognád.
+Dialogue: 0,0:18:27.39,0:18:28.23,Default,,0,0,0,,Micsoda?
+Dialogue: 0,0:18:28.31,0:18:29.98,Default,,0,0,0,,Vibrátor támadás!
+Dialogue: 0,0:18:30.06,0:18:32.86,Default,,0,0,0,,Várj, állj meg!
+Dialogue: 0,0:18:32.94,0:18:34.86,Default,,0,0,0,,Hagyd ezt abba!
+Dialogue: 0,0:18:45.70,0:18:48.16,Default,,0,0,0,,Szóval mégis csak pisilsz. Idol a seggem.
+Dialogue: 0,0:18:49.21,0:18:53.75,Default,,0,0,0,,Főcica nézd, ez a béka-szerű izé\Na wc-tündér valódi formája.
+Dialogue: 0,0:18:54.96,0:18:56.76,Default,,0,0,0,,Rohadt undorító.
+Dialogue: 0,0:19:00.63,0:19:03.93,Default,,0,0,0,,Megöllek! Megöllek! Megöllek!
+Dialogue: 0,0:19:04.01,0:19:07.43,Default,,0,0,0,,Jaj nagyon sós!
+Dialogue: 0,0:19:07.52,0:19:11.81,Default,,0,0,0,,Te kibaszott drogos!\NEz az élet íze!
+Dialogue: 0,0:19:11.90,0:19:15.36,Default,,0,0,0,,Bocsánat! Elhányom magam! Hagyd abba!
+Dialogue: 0,0:19:15.44,0:19:17.07,Default,,0,0,0,,Fulladj bele!
+Dialogue: 0,0:19:20.40,0:19:24.07,Default,,0,0,0,,{\i1}Bárcsak abbahagynák a szobám összepiszkítását{\i0}
+Dialogue: 0,0:19:24.95,0:19:27.83,Default,,0,0,0,,{\i1}Láncdohányos Macska{\i0}
+Dialogue: 0,0:19:29.16,0:19:31.08,Default,,0,0,0,,{\an8}NYAGAMIHARA VÁROSHÁZA
+Dialogue: 0,0:19:31.17,0:19:32.21,Default,,0,0,0,,{\an8}BESTIA NEGYED NYAGAMIHARA
+Dialogue: 0,0:19:32.29,0:19:33.96,Default,,0,0,0,,{\i1}Itt vagyunk ma a városházán.{\i0}
+Dialogue: 0,0:19:34.04,0:19:35.71,Default,,0,0,0,,- 385-ös szám.\N- Fenn vagyunk már?
+Dialogue: 0,0:19:35.79,0:19:38.34,Default,,0,0,0,,{\i1}Hame Cica eljött{\i0}\N{\i1}hogy vezetéknevet adjon magának.{\i0}
+Dialogue: 0,0:19:38.92,0:19:43.05,Default,,0,0,0,,{\i1}Hame Cicának mindkét szülője bestia{\i0}\N{\i1}ezért nincs vezetékneve.{\i0}
+Dialogue: 0,0:19:44.05,0:19:47.68,Default,,0,0,0,,{\i1}Azt mondta, minden dolgozatából{\i0}\N{\i1}levontak öt pontot e miatt.{\i0}
+Dialogue: 0,0:19:48.18,0:19:49.60,Default,,0,0,0,,Kész is van!
+Dialogue: 0,0:19:49.68,0:19:52.60,Default,,0,0,0,,Nézd csak, Yanicska!
+Dialogue: 0,0:19:52.69,0:19:54.94,Default,,0,0,0,,Ez Hamécska új vezetékneve!
+Dialogue: 0,0:19:55.44,0:19:56.86,Default,,0,0,0,,Bolyhos Puha * Angyal Hameko
+Dialogue: 0,0:19:56.94,0:19:58.11,Default,,0,0,0,,Ez meg mi?
+Dialogue: 0,0:19:58.69,0:20:00.57,Default,,0,0,0,,Ugye milyen cuki?
+Dialogue: 0,0:20:00.65,0:20:02.36,Default,,0,0,0,,{\i1}Ettől a naptól fogva,{\i0}
+Dialogue: 0,0:20:02.45,0:20:04.57,Default,,0,0,0,,{\i1}Bolyhos Puha * Angyal Hameko vagyok!{\i0}
+Dialogue: 0,0:20:04.66,0:20:07.03,Default,,0,0,0,,{\i1}Örvendek a szerencsének, Yanicska!{\i0}
+Dialogue: 0,0:20:08.66,0:20:10.08,Default,,0,0,0,,Ez rohadt furcsa.
+Dialogue: 0,0:20:10.66,0:20:12.79,Default,,0,0,0,,Továbbá hosszú, és nehéz kimondani.
+Dialogue: 0,0:20:12.87,0:20:14.58,Default,,0,0,0,,Viccelsz, ugye?
+Dialogue: 0,0:20:15.29,0:20:19.17,Default,,0,0,0,,Kétlem, hogy bárki is\Nígy fog szólítani.
+Dialogue: 0,0:20:19.25,0:20:21.34,Default,,0,0,0,,Olyan undok vagy!
+Dialogue: 0,0:20:21.42,0:20:24.93,Default,,0,0,0,,Igaziból Yanicska vezetéknevét sem tudom.
+Dialogue: 0,0:20:25.01,0:20:27.35,Default,,0,0,0,,Fogadok az is fura, nem?
+Dialogue: 0,0:20:27.93,0:20:28.81,Default,,0,0,0,,Sato a nevem.
+Dialogue: 0,0:20:28.89,0:20:30.10,Default,,0,0,0,,Az nagyon gyakori!
+Dialogue: 0,0:20:30.18,0:20:33.98,Default,,0,0,0,,Úgy hallottam\Nmásodjára sokkal nehezebb nevet változtatni.
+Dialogue: 0,0:20:34.06,0:20:36.10,Default,,0,0,0,,Szóval most van itt az ideje, hogy ezt átgondold.
+Dialogue: 0,0:20:36.19,0:20:40.07,Default,,0,0,0,,Jó lesz így, be is nyújtom.
+Dialogue: 0,0:20:40.15,0:20:41.94,Default,,0,0,0,,Mit szólsz a Tanaka Hameko-hoz?
+Dialogue: 0,0:20:42.03,0:20:43.36,Default,,0,0,0,,Sohanapján!
+Dialogue: 0,0:20:43.45,0:20:44.28,Default,,0,0,0,,BESTIA OSZTÁLY
+Dialogue: 0,0:20:44.36,0:20:47.74,Default,,0,0,0,,Ok, minden rendben.\NMajd kipostázzák önnek a dokumentumokat.
+Dialogue: 0,0:20:47.82,0:20:50.29,Default,,0,0,0,,Miután étvette,\Nkérem hozza be őket,
+Dialogue: 0,0:20:50.37,0:20:53.00,Default,,0,0,0,,és akkor tudunk új igazolványokat adni.
+Dialogue: 0,0:20:54.62,0:20:59.13,Default,,0,0,0,,{\i1}Bolyhos Puha * Angyal Hameko{\i0}\N{\i1}Hamécska bojhos és puha.{\i0}
+Dialogue: 0,0:21:02.09,0:21:04.93,Default,,0,0,0,,A francba, Haménak WC-re kell mennie.
+Dialogue: 0,0:21:05.01,0:21:05.93,Default,,0,0,0,,Kakilnod kell?
+Dialogue: 0,0:21:06.01,0:21:07.76,Default,,0,0,0,,Dehogy is!
+Dialogue: 0,0:21:10.10,0:21:12.56,Default,,0,0,0,,Mit kezdjek ezzel?
+Dialogue: 0,0:21:12.64,0:21:14.02,Default,,0,0,0,,Had nézzem.
+Dialogue: 0,0:21:15.06,0:21:16.69,Default,,0,0,0,,Mi ez a vezetéknév?
+Dialogue: 0,0:21:17.19,0:21:20.73,Default,,0,0,0,,Hát a bestiák néha\Nfura neveket választanak maguknak.
+Dialogue: 0,0:21:21.23,0:21:24.28,Default,,0,0,0,,Ez a szimbólum itt a közepén.
+Dialogue: 0,0:21:24.36,0:21:25.70,Default,,0,0,0,,Mit gondol mi ez?
+Dialogue: 0,0:21:25.78,0:21:28.28,Default,,0,0,0,,Mielőtt megkérdezhettem volna elment.
+Dialogue: 0,0:21:29.37,0:21:30.87,Default,,0,0,0,,Mi lehet ez?
+Dialogue: 0,0:21:30.95,0:21:33.79,Default,,0,0,0,,Nem regisztrálhatunk szimbólumokat.
+Dialogue: 0,0:21:34.71,0:21:37.67,Default,,0,0,0,,Ez ugye nem egy segglyuk?
+Dialogue: 0,0:21:37.75,0:21:40.92,Default,,0,0,0,,Igaza lehet, ez egy ánusz.
+Dialogue: 0,0:21:41.50,0:21:44.80,Default,,0,0,0,,De mit írjak "segglyuk" vagy "ánusz"?
+Dialogue: 0,0:21:45.38,0:21:47.55,Default,,0,0,0,,Egyik se hangzik valami jól.
+Dialogue: 0,0:21:47.63,0:21:48.89,Default,,0,0,0,,Mit szólna az "anál"-hoz?
+Dialogue: 0,0:21:48.97,0:21:49.80,Default,,0,0,0,,FENÉK ZUHANY
+Dialogue: 0,0:21:50.55,0:21:53.93,Default,,0,0,0,,Talán csinálok egy élő videót, hogy megünnepeljem\Naz új nevemet, ha haza érek.
+Dialogue: 0,0:21:55.18,0:21:57.19,Default,,0,0,0,,Bolyhos Puha * Angyal Hameko!
+Dialogue: 0,0:21:57.27,0:21:58.44,Default,,0,0,0,,Bolyhos Puha * Angyal Hameko
+Dialogue: 0,0:21:58.52,0:22:02.19,Default,,0,0,0,,Bolyhos Puha Anál Angyal Hameko
+Dialogue: 0,0:22:02.82,0:22:07.15,Default,,0,0,0,,{\i1}A mai napon Bolyhos Puha Anál Angyal Hameko{\i0}\N{\i1}megszületett.{\i0}
+Dialogue: 0,0:23:32.91,0:23:37.91,Default,,0,0,0,,{\an8}Magyarította: DonBattery
+Dialogue: 0,0:23:37.99,0:23:38.83,Default,,0,0,0,,EZ A MŰ A KÉPZELET SZÜLEMÉNYE.
+Dialogue: 0,0:23:38.91,0:23:40.91,Default,,0,0,0,,KISKORÚAKNAK DOHÁNYOZNI ÉS ALKOHOLT FOGYASZTANI\NTILOS. NE UTÁNOZD!
+
